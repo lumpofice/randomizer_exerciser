@@ -1,3 +1,5 @@
+# Three-group Exercise Assignment Randomizer
+
 This function is a teaching tool to be used in randomly assigning
 students exercises to be worked on the board. For each exercise assigned
 by the teacher, three students will be charged with presenting this assignment
